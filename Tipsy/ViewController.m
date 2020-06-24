@@ -30,6 +30,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //make keyboard visible upon app launch
+    [self.billField becomeFirstResponder];
     // Do any additional setup after loading the view.
     //make everything except bill total invisible
     self.tipLabel.alpha = 0;
