@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PalGDoA"><a href="//imgur.com/a/PalGDoA">Caroline Reiser FBU - Tipsy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='https://i.imgur.com/a/PalGDoA' title='Caroline Reiser FBU - Tipsy' width='' alt='Caroline Reiser FBU - Tipsy' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
